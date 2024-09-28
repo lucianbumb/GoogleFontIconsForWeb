@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk.Razor">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>Material Symbols Outlined for Web</Title>
+        <Description>Provides an easy way to add icons into a c# web application</Description>
+        <PackageId>MaterialSymbolsOutlined.Web</PackageId>
+        <Authors>Lucian Bumb</Authors>
+        <Company>Lucian Bumb</Company>
+        <PackageVersion>1.0.0</PackageVersion>
+        <RepositoryUrl>https://github.com/YourRepositoryUrl</RepositoryUrl>
+        <PackageOutputPath>D:\Nuget\LocalPackages</PackageOutputPath>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <SupportedPlatform Include="browser"/>
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="8.0.8"/>
+    </ItemGroup>
+
+</Project>

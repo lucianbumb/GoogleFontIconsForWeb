@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleFontIconsForWeb.ConsoleApp", "GoogleFontIconsForWeb.ConsoleApp\GoogleFontIconsForWeb.ConsoleApp.csproj", "{C267E387-AE47-406C-91D8-87973E7B4645}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaterialSymbolsSharp.Web", "MaterialSymbolsSharp.Web\MaterialSymbolsSharp.Web.csproj", "{67DBE648-9342-4771-BE0E-30FF349DBD93}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaterialSymbolsOutlined.Web", "MaterialSymbolsOutlined.Web\MaterialSymbolsOutlined.Web.csproj", "{5D8FD079-4E95-402D-AB60-0F6247A39075}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaterialSymbolsRounded.Web", "MaterialSymbolsRounded.Web\MaterialSymbolsRounded.Web.csproj", "{D4947D5E-0A9A-44D3-BDA1-153DF5BAC8D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C267E387-AE47-406C-91D8-87973E7B4645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C267E387-AE47-406C-91D8-87973E7B4645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C267E387-AE47-406C-91D8-87973E7B4645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C267E387-AE47-406C-91D8-87973E7B4645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67DBE648-9342-4771-BE0E-30FF349DBD93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67DBE648-9342-4771-BE0E-30FF349DBD93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67DBE648-9342-4771-BE0E-30FF349DBD93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67DBE648-9342-4771-BE0E-30FF349DBD93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D8FD079-4E95-402D-AB60-0F6247A39075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D8FD079-4E95-402D-AB60-0F6247A39075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D8FD079-4E95-402D-AB60-0F6247A39075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D8FD079-4E95-402D-AB60-0F6247A39075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4947D5E-0A9A-44D3-BDA1-153DF5BAC8D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4947D5E-0A9A-44D3-BDA1-153DF5BAC8D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4947D5E-0A9A-44D3-BDA1-153DF5BAC8D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4947D5E-0A9A-44D3-BDA1-153DF5BAC8D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
