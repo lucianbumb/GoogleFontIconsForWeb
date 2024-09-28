@@ -49,7 +49,7 @@ Now you can start using icons in your application. Simply reference the icons us
 
 **Important:** All icon names are written in **UPPERCASE**. Please ensure that you use uppercase letters when referencing icons in your project.
 
-## Improving the CSS for Icon Appearance
+## How to change Icon Appearance ?
 
 
 ```CSS
