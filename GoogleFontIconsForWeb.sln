@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaterialSymbolsOutlined.Web
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaterialSymbolsRounded.Web", "MaterialSymbolsRounded.Web\MaterialSymbolsRounded.Web.csproj", "{D4947D5E-0A9A-44D3-BDA1-153DF5BAC8D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApp", "BlazorApp\BlazorApp.csproj", "{3355C760-8DDE-43DA-9C9E-C7C8185A1E44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,8 +35,15 @@ Global
 		{D4947D5E-0A9A-44D3-BDA1-153DF5BAC8D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4947D5E-0A9A-44D3-BDA1-153DF5BAC8D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4947D5E-0A9A-44D3-BDA1-153DF5BAC8D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3355C760-8DDE-43DA-9C9E-C7C8185A1E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3355C760-8DDE-43DA-9C9E-C7C8185A1E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3355C760-8DDE-43DA-9C9E-C7C8185A1E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3355C760-8DDE-43DA-9C9E-C7C8185A1E44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC17DB15-DDB4-4A9B-B81E-297AC5BA7E33}
 	EndGlobalSection
 EndGlobal
