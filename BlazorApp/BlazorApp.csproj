@@ -7,7 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="MaterialSymbolsOutlined.Web" Version="1.0.6" />
+    <ProjectReference Include="..\MaterialSymbolsOutlined.Web\MaterialSymbolsOutlined.Web.csproj" />
   </ItemGroup>
+
+
 
 </Project>

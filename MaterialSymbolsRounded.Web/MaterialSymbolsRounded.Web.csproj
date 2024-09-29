@@ -10,7 +10,7 @@
     <PackageId>MaterialSymbolsRounded.Web</PackageId>
     <Authors>Lucian Bumb</Authors>
     <Company>Lucian Bumb</Company>
-    <PackageVersion>1.0.6</PackageVersion>
+    <PackageVersion>1.0.7</PackageVersion>
     <RepositoryUrl>https://github.com/lucianbumb/GoogleFontIconsForWeb</RepositoryUrl>
     <PackageOutputPath>D:\Nuget\LocalPackages</PackageOutputPath>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>

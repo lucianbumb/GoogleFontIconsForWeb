@@ -49,8 +49,7 @@ Now you can start using icons in your application. Simply reference the icons us
 
 **Important:** All icon names are written in **UPPERCASE**. Please ensure that you use uppercase letters when referencing icons in your project.
 
-## Improving the CSS for Icon Appearance
-Here's a revised version of the CSS with more descriptive comments:
+## How to change Icon Appearance ?
 
 ```CSS
 .ms-rounded {
@@ -74,7 +73,7 @@ Here's a revised version of the CSS with more descriptive comments:
 
 For more information please visit: [https://m3.material.io/](https://m3.material.io/styles/icons/overview)
 
-`By applying this CSS to elements with the ms-outlined class, you can customize the appearance of Material Icons to your liking.`
+`By applying this CSS to elements with the ms-rounded class, you can customize the appearance of Material Icons to your liking.`
 
 ## Contributions
 Contributions and feedback are welcome. If you encounter any issues, feel free to open an issue on GitHub.

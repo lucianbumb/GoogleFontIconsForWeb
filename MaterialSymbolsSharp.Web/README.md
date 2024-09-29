@@ -49,8 +49,7 @@ Now you can start using icons in your application. Simply reference the icons us
 
 **Important:** All icon names are written in **UPPERCASE**. Please ensure that you use uppercase letters when referencing icons in your project.
 
-## Improving the CSS for Icon Appearance
-Here's a revised version of the CSS with more descriptive comments:
+## How to change Icon Appearance ?
 
 ```CSS
 .ms-sharp {
